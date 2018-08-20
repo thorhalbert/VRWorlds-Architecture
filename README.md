@@ -37,7 +37,6 @@ Accept and execute RPC calls from the client browser-codes.
 * Management of the magic systems (this includes what control abstractions that are permitted from the user’s avatar)
 # Entity Server - Manage Entities/Assets 
 * Manage the assets or a world, possibility including AI driven objects such as NPCs.  These are portable between worlds (with the permission and constraints of the magic/physics/participation rules of a given world).
-
 * Handle the archetype of the entity
 * Handle the inventory of all of the instances of that archetype in existence.
 * Handle transient instances.
