@@ -44,7 +44,7 @@ Accept and execute RPC calls from the client browser-codes.
 * Handle mesh/texture (appearance) subscriptions to the browser-code running on the browser.
 * Handle rpc calls from browser-codes.
 
-#Principles
+# High-Level Principles
 * Client Browsers are not trusted
 * So, the client browser-code is not trusted
 * The Avatar is trusted as far as necessary
